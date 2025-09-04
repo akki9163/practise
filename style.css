@@ -1,0 +1,14 @@
+p {
+  color: blue; /* Sets the text color of paragraphs to blue */
+  font-size: 16px; /* Sets the font size of paragraphs to 16 pixels */
+}
+
+h1 {
+  text-align: center; /* Centers the text of level 1 headings */
+  background-color: lightgray; /* Sets the background color of level 1 headings */
+}
+
+.highlight {
+  background-color: yellow; /* Sets the background color of elements with the class "highlight" to yellow */
+  font-weight: bold; /* Makes the text of elements with the class "highlight" bold */
+}
